@@ -27,7 +27,7 @@ Me encantan la fotografía 📷, la naturaleza 🌲, los videojuegos 🎮🕹 (e
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
-### 💾 Databases
+### 💾 Base de datos / Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
