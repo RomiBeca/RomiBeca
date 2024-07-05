@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mi / About Me
 
-Hola, soy Romina Beca. Soy chilena y una apasionada de la programación y la tecnología 💻. Me fascina cómo el mundo ha evolucionado tan rápidamente, acercándonos a tecnologías que solo imaginábamos en películas de ciencia ficción 🎞📼 y que hoy son una realidad.
+Hola, soy Romina Beca, una apasionada de la programación y la tecnología 💻. Me fascina cómo el mundo ha evolucionado tan rápidamente, acercándonos a tecnologías que solo imaginábamos en películas de ciencia ficción 🎞📼 y que hoy son una realidad.
 
 Me encantan la fotografía 📷, la naturaleza 🌲, los videojuegos 🎮🕹 (especialmente mi favorito hasta ahora es Red Dead Redemption 2 🤠🐴), las tecnologías en general 📱💻, y el deporte enfocado en la salud 🏃‍♀️🧘‍♀️❤. Tengo un título previo como preparadora física 🎓, lo cual complementa mi interés por la tecnología y la salud física. Creo firmemente que, juntas, la tecnología y la salud física pueden lograr grandes cosas.
 
